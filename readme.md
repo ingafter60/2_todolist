@@ -66,3 +66,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 7. Run db migration 
 8. Check the result
 9. Use tinker to create db (php artisan tinker)
+
+## 014 Todos Index Page
+
+1. In views create a new layouts folder and main.blade.php file + html + link to app.css
+2. Get all todos in the controller with index action and display them
+3. In views create todo folder and index page and loop todos from db
+4. Install dependencies
+5. Create custom.scss
