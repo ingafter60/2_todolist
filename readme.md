@@ -54,3 +54,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Create Todo App Using Laravel v5.4.21
 
 1. Create Todo app
+
+## 013 Resource Setup & Tinker
+
+1. Create TodosController with resource flag
+2. Create route for home page and todo (resource)
+3. Create Todo model with migration flag
+4. Add some column to todos table
+5. Create db
+6. Change db spec in config
+7. Run db migration 
+8. Check the result
+9. Use tinker to create db (php artisan tinker)
