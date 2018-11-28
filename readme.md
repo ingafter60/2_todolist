@@ -74,3 +74,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 3. In views create todo folder and index page and loop todos from db
 4. Install dependencies
 5. Create custom.scss
+
+## 015 Todo Show Page & Includes
+
+1. Display todos with LIFO
+2. Display single todo
+3. Add inc
+4. Add navbar with active class
+5. Add flash message
