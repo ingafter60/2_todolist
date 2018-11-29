@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('content')
-	<a class="btn btn-default" href="/">Go Back</a>
+	<a class="btn btn-default goBack" href="/">Go Back</a>
 	<h1>
 		<a href="todo/{{$todo->id}}"> {{ $todo->name }}</a> 
 	</h1>

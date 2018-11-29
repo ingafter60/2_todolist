@@ -82,3 +82,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 3. Add inc
 4. Add navbar with active class
 5. Add flash message
+
+## 016 Todo Create Form & Components
+
+1. Use create function to create todo
+2. Add create file in todos folder and add testing text to it
+3. Create components (using LaravelCollective), as bellow:
+4. Install LaravelCollective form + follow the instructions (composer require "laravelcollective/html":"^5.4.0")
+5. Install FormServiceProvider (php artisan make:provider FormServiceProvider)
+6. Add it to Providers in config/app.php
+7. In views create:
+   components/form/
+   text.blade.php
+   textarea.blade.php
+   submit.blade.php
